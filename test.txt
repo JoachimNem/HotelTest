@@ -1,2 +1,0 @@
-TEST MS JAVA
-test2
