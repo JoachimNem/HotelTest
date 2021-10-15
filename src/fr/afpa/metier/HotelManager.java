@@ -106,7 +106,7 @@ public class HotelManager {
                                 nbChambres = Integer.parseInt(entry);
                                 break;
                             case "Options":
-                                System.out.println("Option Attribut");
+                                System.out.println("Option Attribute");
                                 break;
                         }
 
